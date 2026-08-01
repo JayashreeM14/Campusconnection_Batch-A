@@ -12,6 +12,7 @@ public class Main
 	        b = b * 10 + digit;
 	        n = n / 10;
 	        
+			
 	    }
 	    
 	    System.out.println(b);
